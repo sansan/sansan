@@ -1,4 +1,4 @@
-<h1>Hey, nice to see you.</h1>
+<h1>Hey, nice to see you! 👋</h1>
 <p>Welcome to my page! </br> I'm Toms, Fullstack developer from <img src="https://image.flaticon.com/icons/svg/630/630612.svg" width="14"/> <b>Riga, Latvia.</p>
 <h3>Things I code with</h3>
 <p>
