@@ -1,5 +1,5 @@
 <h1>Hey, nice to see you! 👋</h1>
-<p>Welcome to my page! </br> I'm Toms, Fullstack developer from <img src="https://image.flaticon.com/icons/svg/630/630612.svg" width="14"/> <b>Riga, Latvia.</p>
+<p>Welcome to my page! </br> I'm Toms, Fullstack developer from <b>Riga, Latvia.</p>
 <h3>Things I code with</h3>
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
